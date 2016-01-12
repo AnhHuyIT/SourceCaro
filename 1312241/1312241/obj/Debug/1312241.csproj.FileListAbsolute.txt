@@ -1,0 +1,13 @@
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Debug\1312241.exe.config
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241.csprojResolveAssemblyReference.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\App.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241_MarkupCompile.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\MainWindow.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\MainWindow.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241.g.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\_1312241.Properties.Resources.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241.csproj.GenerateResource.Cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Debug\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Debug\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Debug\1312241.pdb

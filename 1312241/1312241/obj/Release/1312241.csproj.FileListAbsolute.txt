@@ -1,0 +1,158 @@
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\1312241.exe.config
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\MainWindow.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\MainWindow.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\App.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241_MarkupCompile.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241.g.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\_1312241.Properties.Resources.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241.csproj.GenerateResource.Cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\1312241.exe.config
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\Microsoft.Expression.Controls.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\Microsoft.Expression.Drawing.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\de\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\es\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\fr\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\it\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ja\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ko\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ru\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\zh-Hans\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\zh-Hant\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241.csprojResolveAssemblyReference.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\Chess\UserControl_Chess_O1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\MainWindow.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\Chess\UserControl_Chess_O1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\MainWindow.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\App.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241_MarkupCompile.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241.g.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\_1312241.Properties.Resources.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\1312241.csproj.GenerateResource.Cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\Chess\UserControl_Chess_X1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v1\1312241\obj\Release\Chess\UserControl_Chess_X1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\1312241.exe.config
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\Microsoft.Expression.Controls.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\Microsoft.Expression.Drawing.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\de\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\es\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\fr\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\it\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ja\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ko\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ru\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\zh-Hans\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\zh-Hant\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241.csprojResolveAssemblyReference.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\Chess\UserControl_Chess_O1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\Chess\UserControl_Chess_X1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\MainWindow.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\Chess\UserControl_Chess_O1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\Chess\UserControl_Chess_X1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\MainWindow.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\App.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241_MarkupCompile.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241.g.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\_1312241.Properties.Resources.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241_v2\1312241\obj\Release\1312241.csproj.GenerateResource.Cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\EngineIoClientDotNet.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\Microsoft.Expression.Controls.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\Newtonsoft.Json.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\SocketIoClientDotNet.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\WebSocket4Net.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\Microsoft.Expression.Drawing.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\Newtonsoft.Json.xml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\de\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\es\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\fr\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\it\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ja\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ko\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ru\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\zh-Hans\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\zh-Hant\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\1312241.csprojResolveAssemblyReference.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\Chess\UserControl_Chess_O1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\Chess\UserControl_Chess_X1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\Chess\UserControl_Chess_O1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241\1312241\obj\Release\Chess\UserControl_Chess_X1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\1312241.exe.config
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\1312241.exe
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\1312241.pdb
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\EngineIoClientDotNet.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\Microsoft.Expression.Controls.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\Newtonsoft.Json.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\SocketIoClientDotNet.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\WebSocket4Net.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\Microsoft.Expression.Drawing.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\Newtonsoft.Json.xml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\de\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\es\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\fr\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\it\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ja\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ko\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ru\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\zh-Hans\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\zh-Hant\Microsoft.Expression.Controls.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\de\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\es\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\fr\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\it\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ja\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ko\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\ru\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\bin\Release\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241.csprojResolveAssemblyReference.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\Chess\UserControl_Chess_O1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\Chess\UserControl_Chess_X1.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\MainWindow.baml
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\Chess\UserControl_Chess_O1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\Chess\UserControl_Chess_X1.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\MainWindow.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\App.g.cs
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241_MarkupCompile.cache
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241.g.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\_1312241.Properties.Resources.resources
+E:\Huy\Năm 3 - HK1\Lập trình win\1312241 - Copy\1312241\obj\Release\1312241.csproj.GenerateResource.Cache
